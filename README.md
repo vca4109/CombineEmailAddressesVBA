@@ -12,7 +12,7 @@ If not, only the fixed list is used.
 
 The final result is written into cell A3 on the same sheet.
 
-📄 Example Output
+Example Output
 If A2 contains:
 extra.one@mail.com; extra.two@mail.net
 
